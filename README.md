@@ -1,1 +1,2 @@
 # ESO_WEMSIS
+This repository is for the benefit of Washington State fire departments using ESO to manage their incident records.  It provides information to help improve their scores under WEMSIS (Washington EMS Information System) data validation rules.
